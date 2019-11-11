@@ -4,7 +4,7 @@ This application focuses to provide the complete synopsis of the different kinds
 Simply copy & paste the path of the folder whose specifications you want to know.
 The code will give the following details:
     1. Total number of files
-    2. Total time count(Add the time duration of each mp3/mp4 file to give the total length of all audios and videos           separately) of mp3/mp4 files
+    2. Total time count (Add the time duration of each mp3/mp4 file to give the total length of all audios and videos           separately) of mp3/mp4/avi/flg/wav etc. files.
     3. Total number of files of various extensions like .doc, .html files
     
  Following are some of its use cases:
