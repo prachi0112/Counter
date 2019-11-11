@@ -16,7 +16,7 @@ The code will give the following details:
 
 
 ## :camera: ScreenShots
-![gui](https://github.com/gautamgupta1811/Counter/blob/master/gui.png)
+![gui](https://github.com/prachi0112/Counter/blob/master/gui.png)
 
 
 ## Technology Stack
