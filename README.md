@@ -12,3 +12,14 @@ The code will give the following details:
     2. It can also list all the different file extensions existing in your folder. 
     3. Its also very when you need to know the total length of all the audios/ videos in a folder.(For example, the total       length of all the episodes of your favorite show that you recently downloaded.😉)
  
+
+
+
+## :camera: ScreenShots
+![gui](https://github.com/gautamgupta1811/Counter/blob/master/gui.png)
+
+
+## Technology Stack
+Python 3    
+PyQt  
+Designer
