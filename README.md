@@ -16,16 +16,16 @@ The code will give the following details:
     
 
 ## :camera: ScreenShots
-![gui](https://github.com/gautamgupta1811/Counter/blob/master/ScreenShots/gui.png)  
+![gui](https://github.com/prachi0112/Counter/blob/master/gui%20(1).png)  
 
 
-![result](https://github.com/gautamgupta1811/Counter/blob/master/ScreenShots/result.png)
+![result](https://github.com/prachi0112/Counter/blob/master/result.png)
 
 
-![browse](https://github.com/gautamgupta1811/Counter/blob/master/ScreenShots/browse.png)  
+![browse](https://github.com/prachi0112/Counter/blob/master/browse.png)  
 
 
-![blank_path](https://github.com/gautamgupta1811/Counter/blob/master/ScreenShots/blank_Path.png)
+![blank_path](https://github.com/prachi0112/Counter/blob/master/blank_Path.png)
 
 
 ## Technology Stack
