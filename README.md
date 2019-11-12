@@ -1,7 +1,7 @@
 # Counter
 
 This application provide the complete synopsis of the different kinds of files in a folder.  
-Simply copy & paste the path of the folder whose specifications you want to know.
+Simply copy & paste the path of the folder whose specifications you want to know.  
 The code will give the following details:  
 1. Total number of files  
 2. Total time count (Add the time duration of each mp3/mp4 file to give the total length of all audios and videos separately) of mp3/mp4/avi/flg/wav etc. files.  
